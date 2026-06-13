@@ -19,5 +19,12 @@ and improved calculations by replacing manual revenue entries with SUMPRODUCT fo
 
 * Handled missing values by replacing nulls in the coupon column with "No Coupon".
 
-## Files in This Repository 
 
+## View Dataset Screenshot
+
+<img width="953" height="466" alt="1000755546" src="https://github.com/user-attachments/assets/a985a6b2-9830-4219-965b-f92d48b3da7d" />
+
+
+
+  ## File in This Repository 
+[View Excel Dataset](https://1drv.ms/x/c/e2a3b45f6c0dabc5/IQD9Kz98XS2hTYBijtlfGwkUAbzhaBYpef3Au-31hCAB3yw?e=KPbcB6)
