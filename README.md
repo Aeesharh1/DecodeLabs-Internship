@@ -19,10 +19,20 @@ and improved calculations by replacing manual revenue entries with SUMPRODUCT fo
 
 * Handled missing values by replacing nulls in the coupon column with "No Coupon".
 
+## Dirty data 
 
-## View Dataset Screenshot
+
+<img width="1475" height="917" alt="1000770232" src="https://github.com/user-attachments/assets/a24278b3-e578-49a1-9549-82f123f9cad0" />
+
+
+## Cleaned data
 
 <img width="953" height="466" alt="1000755546" src="https://github.com/user-attachments/assets/a985a6b2-9830-4219-965b-f92d48b3da7d" />
+
+
+## Changes made
+
+<img width="1794" height="745" alt="1000770231" src="https://github.com/user-attachments/assets/62859c58-e17d-4208-bffb-67e124de672d" />
 
 
 
